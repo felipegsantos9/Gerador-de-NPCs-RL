@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de NPC</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container">
+
+        <section class="gerador">
+
+            <div class="cabecalho">
+                <span class="tag">RPG TOOL</span>
+
+                <h1>Gerador de NPC</h1>
+
+                <p>
+                    Crie personagens aleatórios para sua aventura.
+                </p>
+            </div>
+
+            <div class="controles">
+
+                <div class="campo">
+                    <label for="nacionalidade">
+                        Nacionalidade
+                    </label>
+
+                    <select id="nacionalidade">
+                        <option value="aleatorio">Aleatória</option>
+                        <option value="ALEMÃ">Alemã</option>
+                        <option value="AMERICANA">Americana</option>
+                        <option value="ARGENTINA">Argentina</option>
+                        <option value="ÁRABE">Árabe</option>
+                        <option value="AUSTRALIANA">Australiana</option>
+                        <option value="BRASILEIRA">Brasileira</option>
+                        <option value="CHINESA">Chinesa</option>
+                        <option value="COREANA">Coreana</option>
+                        <option value="ESPANHOLA">Espanhola</option>
+                        <option value="FRANCESA">Francesa</option>
+                        <option value="INGLESA">Inglesa</option>
+                        <option value="INDIANA">Indiana</option>
+                        <option value="ITALIANA">Italiana</option>
+                        <option value="JAPONESA">Japonesa</option>
+                        <option value="MEXICANA">Mexicana</option>
+                        <option value="PORTUGUESA">Portuguesa</option>
+                        <option value="RUSSA">Russa</option>
+                    </select>
+                </div>
+
+                <div class="campo">
+                    <label for="origem">
+                        Origem
+                    </label>
+
+                    <select id="origem">
+                        <option value="aleatorio">Aleatória</option>
+                        <option value="ALEMÃ">Alemã</option>
+                        <option value="AMERICANA">Americana</option>
+                        <option value="ARGENTINA">Argentina</option>
+                        <option value="ÁRABE">Árabe</option>
+                        <option value="AUSTRALIANA">Australiana</option>
+                        <option value="BRASILEIRA">Brasileira</option>
+                        <option value="CHINESA">Chinesa</option>
+                        <option value="COREANA">Coreana</option>
+                        <option value="ESPANHOLA">Espanhola</option>
+                        <option value="FRANCESA">Francesa</option>
+                        <option value="INGLESA">Inglesa</option>
+                        <option value="INDIANA">Indiana</option>
+                        <option value="ITALIANA">Italiana</option>
+                        <option value="JAPONESA">Japonesa</option>
+                        <option value="MEXICANA">Mexicana</option>
+                        <option value="PORTUGUESA">Portuguesa</option>
+                        <option value="RUSSA">Russa</option>
+                    </select>
+                </div>
+
+                <div class="campo">
+                    <label for="genero">
+                        Gênero
+                    </label>
+
+                    <select id="genero">
+                        <option value="aleatorio">Aleatório</option>
+                        <option value="feminino">Feminino</option>
+                        <option value="masculino">Masculino</option>
+                    </select>
+                </div>
+
+                <button id="gerarNPC" type="button">
+                    Gerar NPC
+                </button>
+
+            </div>
+
+            <section class="resultado">
+
+                <div class="nome-container">
+                    <span class="label">
+                        NOME
+                    </span>
+
+                    <h2 id="nome">
+                        Seu NPC aparecerá aqui
+                    </h2>
+                </div>
+
+                <div class="informacoes">
+
+                    <div class="informacao">
+                        <span class="label">
+                            GÊNERO
+                        </span>
+
+                        <strong id="generoResultado">
+                            —
+                        </strong>
+                    </div>
+
+                    <div class="informacao">
+                        <span class="label">
+                            NACIONALIDADE
+                        </span>
+
+                        <strong id="nacionalidadeResultado">
+                            —
+                        </strong>
+                    </div>
+
+                    <div class="informacao">
+                        <span class="label">
+                            ORIGEM
+                        </span>
+
+                        <strong id="origemResultado">
+                            —
+                        </strong>
+                    </div>
+
+                    <div class="informacao">
+                        <span class="label">
+                            CIDADE
+                        </span>
+
+                        <strong id="cidade">
+                            —
+                        </strong>
+                    </div>
+
+                </div>
+
+            </section>
+
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

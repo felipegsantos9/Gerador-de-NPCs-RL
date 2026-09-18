@@ -1,0 +1,288 @@
+ORIGEM: BRASILEIRA
+
+[CIDADES]
+São Paulo
+Rio de Janeiro
+Brasília
+Salvador
+Fortaleza
+Belo Horizonte
+Manaus
+Curitiba
+Recife
+Goiânia
+Belém
+Porto Alegre
+Guarulhos
+Campinas
+São Luís
+
+ORIGEM: AMERICANA
+
+[CIDADES]
+New York City
+Los Angeles
+Chicago
+Houston
+Phoenix
+Philadelphia
+San Antonio
+San Diego
+Dallas
+Jacksonville
+Austin
+Fort Worth
+San Jose
+Columbus
+Charlotte
+
+ORIGEM: CANADENSE
+
+[CIDADES]
+Toronto
+Montreal
+Calgary
+Ottawa
+Edmonton
+Mississauga
+Winnipeg
+Vancouver
+Brampton
+Hamilton
+Surrey
+Quebec City
+Halifax
+Laval
+London
+
+ORIGEM: MEXICANA
+
+[CIDADES]
+Cidade do México
+Tijuana
+Ecatepec
+León
+Puebla
+Ciudad Juárez
+Guadalajara
+Zapopan
+Monterrey
+Nezahualcóyotl
+Chihuahua
+Mérida
+Cancún
+Aguascalientes
+Hermosillo
+
+ORIGEM: ARGENTINA
+
+[CIDADES]
+Buenos Aires
+Córdoba
+Rosário
+La Plata
+Mar del Plata
+San Miguel de Tucumán
+Salta
+Santa Fe
+Corrientes
+Bahía Blanca
+Resistencia
+Posadas
+San Salvador de Jujuy
+Santiago del Estero
+Neuquén
+
+ORIGEM: BRITÂNICA
+
+[CIDADES]
+Londres
+Birmingham
+Glasgow
+Liverpool
+Leeds
+Sheffield
+Edimburgo
+Bristol
+Manchester
+Leicester
+Bradford
+Cardiff
+Coventry
+Nottingham
+Newcastle upon Tyne
+
+ORIGEM: FRANCESA
+
+[CIDADES]
+Paris
+Marselha
+Lyon
+Toulouse
+Nice
+Nantes
+Montpellier
+Strasbourg
+Bordeaux
+Lille
+Rennes
+Reims
+Toulon
+Saint-Étienne
+Le Havre
+
+ORIGEM: ALEMÃ
+
+[CIDADES]
+Berlim
+Hamburgo
+Munique
+Colônia
+Frankfurt
+Stuttgart
+Düsseldorf
+Leipzig
+Dortmund
+Essen
+Bremen
+Dresden
+Hanôver
+Nuremberg
+Duisburg
+
+ORIGEM: ITALIANA
+
+[CIDADES]
+Roma
+Milão
+Nápoles
+Turim
+Palermo
+Gênova
+Bolonha
+Florença
+Bari
+Catânia
+Veneza
+Verona
+Messina
+Pádua
+Trieste
+
+ORIGEM: ESPANHOLA
+
+[CIDADES]
+Madrid
+Barcelona
+Valência
+Sevilha
+Zaragoza
+Málaga
+Murcia
+Palma
+Las Palmas de Gran Canaria
+Bilbao
+Alicante
+Córdoba
+Valladolid
+Vigo
+Gijón
+
+ORIGEM: PORTUGUESA
+
+[CIDADES]
+Lisboa
+Porto
+Vila Nova de Gaia
+Amadora
+Braga
+Funchal
+Coimbra
+Setúbal
+Almada
+Agualva e Mira Sintra
+Queluz e Belas
+Rio de Mouro
+Aveiro
+Odivelas
+Barreiro
+
+ORIGEM: JAPONESA
+
+[CIDADES]
+Tóquio
+Yokohama
+Osaka
+Nagoya
+Sapporo
+Fukuoka
+Kawasaki
+Kobe
+Kyoto
+Saitama
+Hiroshima
+Sendai
+Chiba
+Kitakyushu
+Sakai
+
+ORIGEM: COREANA
+
+[CIDADES]
+Seul
+Busan
+Incheon
+Daegu
+Daejeon
+Gwangju
+Suwon
+Ulsan
+Yongin
+Goyang
+Changwon
+Seongnam
+Bucheon
+Cheongju
+Ansan
+
+ORIGEM: AUSTRALIANA
+
+[CIDADES]
+Sydney
+Melbourne
+Brisbane
+Perth
+Adelaide
+Gold Coast
+Canberra
+Newcastle
+Wollongong
+Logan City
+Geelong
+Hobart
+Townsville
+Cairns
+Darwin
+
+ORIGEM: RUSSA
+[CIDADES]
+
+Moscou
+São Petersburgo
+Novosibirsk
+Ecaterimburgo
+Níjni Novgorod
+Kazan
+Krasnoyarsk
+Chelyabinsk
+Samara
+Omsk
+Ufa
+Voronezh
+Perm
+Volgogrado
+Krasnodar
+Saratov
+Tyumen
+Togliatti
+Izhevsk
