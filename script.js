@@ -3,7 +3,7 @@ let dadosCidades = {};
 
 async function carregarDados() {
     try {
-        const respostaNomes = await fetch("./Nomes.txt");
+        const respostaNomes = await fetch("./nomes.txt");
 
         if (!respostaNomes.ok) {
             throw new Error("Não foi possível encontrar o arquivo Nomes.txt");
@@ -13,7 +13,7 @@ async function carregarDados() {
 
         dadosNomes = interpretarNomes(textoNomes);
 
-        const respostaCidades = await fetch("./Cidades.txt");
+        const respostaCidades = await fetch("./cidades.txt");
 
         if (!respostaCidades.ok) {
             throw new Error("Não foi possível encontrar o arquivo Cidades.txt");
